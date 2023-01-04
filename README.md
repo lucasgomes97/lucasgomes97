@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 😂 Random Dev Meme
-<img src="[[https://random-memer.herokuapp.com/](https://content.invisioncic.com/v310067/monthly_2021_08/105788626_WhatsAppImage2021-08-17at14_14_34.jpeg.0ae6c535c5ce7faab2a8f9b9180398a9.jpeg)](https://i.pinimg.com/236x/18/03/e4/1803e467763714a25212fe2ed75a0a8a.jpg)" width="512px"/>
+<img src="[[[https://random-memer.herokuapp.com/](https://content.invisioncic.com/v310067/monthly_2021_08/105788626_WhatsAppImage2021-08-17at14_14_34.jpeg.0ae6c535c5ce7faab2a8f9b9180398a9.jpeg)](https://i.pinimg.com/236x/18/03/e4/1803e467763714a25212fe2ed75a0a8a.jpg)](https://drive.google.com/file/d/1Kwje_f06cKb165rsp1VZr4lmyOgD3150/view?usp=sharing)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lucasgomes97&icon=6&color=1)](https://visitcount.itsvg.in)
