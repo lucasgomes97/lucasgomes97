@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá eu sou o Lucas Gomes <br>🔭 Atualmente estou trabalhando como back-end em Python <br>📚 profissional de Python ,Data Science, Django , Django Rest  <br>⚙  Engenheiro de produção e Engenheiro de software <br>🟢Green belt em lean Six Sigma, Lean Manufacturing, Scrum, Controle da qualidade, Segurança no trabalho <br>🖊Autocad profissional, Visual Basic, Ms Project<br>📩 E-mail para contato: lucasceo22@gmail.com<br>
+## Olá eu sou o Lucas Gomes <br>🔭 Atualmente estou trabalhando como back-end em Python <br>📚 profissional de Python ,Data Science, Django , Django Rest  <br>⚙  Engenheiro de produção, Engenheiro de software, MBA em IA, Data Science e Big Data <br>🟢Green belt em lean Six Sigma, Lean Manufacturing, Scrum, Controle da qualidade, Segurança no trabalho <br>🖊Autocad profissional, Visual Basic, Ms Project<br>📩 E-mail para contato: lucasceo22@gmail.com<br>
 
 
 
